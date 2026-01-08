@@ -36,3 +36,20 @@ The menu can be actively maintained and updated based on user feedback.
 
 * Press **F1** to open the menu.
 
+In-game Screenshots:
+<img width="1919" height="1079" alt="ss1 megabonk lansermenu" src="https://github.com/user-attachments/assets/a23580a9-e016-413a-8d74-df60cb80997a" />
+
+<img width="1919" height="1079" alt="ss2 megabonk lansermenu" src="https://github.com/user-attachments/assets/89a943dd-b35c-4b8b-8c30-6f7f149e9634" />
+
+<img width="1919" height="1079" alt="ss3 megabonk lansermenu" src="https://github.com/user-attachments/assets/03a1df90-5d74-4d35-96f3-77a6bd20646f" />
+
+<img width="1919" height="1079" alt="ss4 megabonk lansermenu" src="https://github.com/user-attachments/assets/251d0d99-6dae-4588-9e63-11775403867e" />
+
+
+Leaving a STAR would be much appreciated.
+
+
+
+
+
+
