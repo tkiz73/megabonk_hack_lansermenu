@@ -1,4 +1,4 @@
-## LanserMenu
+## LanserMenu : Megabonk Hack / modmenu (the most OP one yet)
 
 **LanserMenu** is a custom mod menu developed for the game **MegaBonk**, built to provide powerful gameplay modifications with stability and ease of use.
 The menu was **tested on game version 1.0.49**. It may or may not work on other versions, so using the tested version is strongly recommended for the best experience.
